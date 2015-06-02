@@ -1,0 +1,180 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <table border="0" id="maintable">
+      <tr>
+        <td width="109" id="generallabel_13_1433210355093">
+          <b>Super Use Case</b>
+        </td>
+        <td width="491" id="generalvalue_13_1433210355093">
+          
+        </td>
+      </tr>
+      <tr>
+        <td width="109" id="generallabel_12_1433210355083">
+          <b>Author</b>
+        </td>
+        <td width="491" id="generalvalue_12_1433210355083">
+          KASA
+        </td>
+      </tr>
+      <tr>
+        <td width="109" id="generallabel_11_1433210355083">
+          <b>Date</b>
+        </td>
+        <td width="491" id="generalvalue_11_1433210355083">
+          01-jun-2015 19:59:14
+        </td>
+      </tr>
+      <tr>
+        <td width="109" id="generallabel_10_1433210355083">
+          <b>Brief Description</b>
+        </td>
+        <td width="491" id="generalvalue_10_1433210355083">
+          Proceso inicial para el registro del POA instirucional
+        </td>
+      </tr>
+      <tr>
+        <td width="109" id="generallabel_9_1433210355083">
+          <b>Preconditions</b>
+        </td>
+        <td width="491" id="generalvalue_9_1433210355083">
+          Todos los directores de la instituci&#243;n han participado en la 
+          redacci&#243;n del POA
+        </td>
+      </tr>
+      <tr>
+        <td width="109" id="generallabel_8_1433210355083">
+          <b>Post-conditions</b>
+        </td>
+        <td width="491" id="generalvalue_8_1433210355083">
+          El sistema muestra el formulario de ingreso de datos del POA
+        </td>
+      </tr>
+      <tr>
+        <td width="109" id="flowofeventlabelId_7_1433210355083">
+          <b>Flow of Events</b>
+        </td>
+        <td width="491" style="padding-left:0;" id="flowofeventvalueId_7_1433210355083" valign="top">
+          <table width="100%" border="0">
+            <tr>
+              <td width="20" id="flowofeventfirstcelllabel_7_1433210355083">
+                &#160;
+              </td>
+              <td width="235" align="center" id="flowofeventactioninputlabel_7_1433210355083">
+                <b>Actor Input</b>
+              </td>
+              <td width="235" align="center" id="flowofeventsystemresponselabel_7_1433210355083">
+                <b>System Response</b>
+              </td>
+            </tr>
+            <tr>
+              <td id="flowofeventNumIdPrefix_7_14332103550831">
+                1
+              </td>
+              <td class="actor">
+                <p>
+                  Actor solicita elaborar POA
+                </p>
+              </td>
+              <td class="system">
+                <p>
+                  
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td id="flowofeventNumIdPrefix_7_14332103550832">
+                <p>
+                  2
+                </p>
+              </td>
+              <td class="actor">
+                
+              </td>
+              <td class="system">
+                Sistema permite elegir entre dos opciones: Nuevo POA o Editar 
+                POA anterior
+              </td>
+            </tr>
+            <tr>
+              <td id="flowofeventNumIdPrefix_7_14332103550833">
+                <p>
+                  3
+                </p>
+              </td>
+              <td class="actor">
+                Actor elige una opci&#243;n
+              </td>
+              <td class="system">
+                
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td width="109" id="flowofeventlabelId_14_1433210499245">
+          <b>Alternative Flow</b>
+        </td>
+        <td width="400" style="padding-left:0;" id="flowofeventvalueId_14_1433210499245" valign="top">
+          <table width="100%" border="0">
+            <tr>
+              <td width="20" id="flowofeventfirstcelllabel_14_1433210499245">
+                &#160;
+              </td>
+              <td width="240" align="center" id="flowofeventactioninputlabel_14_1433210499245">
+                <b>Actor Input</b>
+              </td>
+              <td width="240" align="center" id="flowofeventsystemresponselabel_14_1433210499245">
+                <b>System Response</b>
+              </td>
+            </tr>
+            <tr>
+              <td id="flowofeventNumIdPrefix_14_14332104992451">
+                1
+              </td>
+              <td class="actor">
+                Actor solicita elaborar POA
+              </td>
+              <td class="system">
+                
+              </td>
+            </tr>
+            <tr>
+              <td id="flowofeventNumIdPrefix_14_14332104992452">
+                <p>
+                  2
+                </p>
+              </td>
+              <td class="actor">
+                
+              </td>
+              <td class="system">
+                2. Sistema desactiva la opci&#243;n Editar POA anterior
+              </td>
+            </tr>
+            <tr>
+              <td id="flowofeventNumIdPrefix_14_14332104992453">
+                <p>
+                  3
+                </p>
+              </td>
+              <td class="actor">
+                Actor elige opcion 
+              </td>
+              <td class="system">
+                
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <p>
+      &#160;
+    </p>
+  </body>
+</html>
